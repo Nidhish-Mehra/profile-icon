@@ -4,7 +4,7 @@
   <h1 align="center">Profile-icon</h1>
 
   <p align="center">
-    A simple tool to make your platforms user profiles much more dynamic!
+    A simple tool to make user profile on your platforms much more dynamic!
     <br />
   </p>
 </p>
