@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://init-svg.herokuapp.com/svg/profile/icon/ff0000/animate"/>
+<img style="height:200px; width:200px" src="https://init-svg.herokuapp.com/svg/profile/icon/ff0000/animate"/>
 
   <h1 align="center">Profile-icon</h1>
 
@@ -104,10 +104,11 @@ If you already have a project and want to use this tool without installing it on
 https://init-svg.herokuapp.com/svg/
 
 ```
-  <img src="https://init-svg.herokuapp.com/svg/profile/icon/ff0000/animate">
+  <img style="height:200px; width:200px" src="https://init-svg.herokuapp.com/svg/profile/icon/ff0000/animate"/>
 ```
 OUTPUT:-
-<img src="https://init-svg.herokuapp.com/svg/profile/icon/ff0000/animate"/>
+
+<img style="height:200px; width:200px" src="https://init-svg.herokuapp.com/svg/profile/icon/ff0000/animate"/>
 
 
 
