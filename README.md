@@ -84,19 +84,14 @@ To run this project locally [Node.js](https://nodejs.org/en/) must be installed 
 ## Usage
 
 After successfully installing and running the project locally you can go to your local host port 5000. <br>
- <h3> By default the URL accepts three parameters </h3>
- 
-1. /svg. The type of the file. (Currently the system only supports .svg format)
-2. /firstName. The first name of the user.
-3. /lastName. Last name of the user.
 
-<h3> In addition the URL accepts two more parameters. </h3>
-
-1. /color. Color input is given as a hex code without '#' 
-2. /type. Type param specifies what type of style do you want on your icon. Currently system supports three types:
-  - ANIMATE (loops an animation)
-  - STROKE (Text appears with only stroke)
-  - FILL (Text fills with static color provided)
+| parameter  | description                                                                                  | example   |
+| ---------  | -------------------------------------------------------------------------------------------- | --------- |
+| `file`     | Identifies the file type. System currently supports only svg.                                | /svg      |
+| `firstName`| first name of the user.                                                                      | /profile  |
+| `lastName` | last name of the user.                                                                       | /icon     |
+| `color`    | Hex value of the desired color.                                                              | /ff0000   |             
+| `type`     | Desired style type for the icon. System currently supports three type. ANIMATE, FILL, STROKE.| /animate  |
 
 ## Usage Examples
 
