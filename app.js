@@ -15,7 +15,7 @@ app.get('/svg/:firstName/:lastName/:color?/:type?', (req, res) => {
         animation: stroke 5s infinite alternate;
         stroke-width: 2;
         stroke: rgba(STROKE_COLOR,1);
-        font-size: 140px;
+        font-size: 300px;
         width: 100%; height: 100%;
         position: absolute;
         }
@@ -38,7 +38,7 @@ app.get('/svg/:firstName/:lastName/:color?/:type?', (req, res) => {
         fill:none;
         stroke-width: 2;
         stroke: rgba(FILL_COLOR,1);
-        font-size: 140px;
+        font-size: 300px;
         width: 100%; height: 100%;
         position: absolute;
         }`
@@ -46,7 +46,7 @@ app.get('/svg/:firstName/:lastName/:color?/:type?', (req, res) => {
         font-family: 'Russo One', sans-serif;
         text-transform: uppercase;
         fill:rgba(FILL_COLOR,1);
-        font-size: 140px;
+        font-size: 300px;
         width: 100%; height: 100%;
         position: absolute;
         }`
