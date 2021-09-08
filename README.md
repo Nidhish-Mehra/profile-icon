@@ -37,11 +37,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Have you ever tried making an app or a website that has a number of user profiles and for every user profile image you have to set the same default icon.</br>
-With the help of this tool you can create real time dynamic icons to make your profiles much more interesting.
+Are you an independent developer who still uses a single boring image for default user profile images on your platform? </br>
+Do you want to make user profiles on your platform much more interesting, without  writing any extra code or installing the load of a separate library? </br>
+Then this tool might be the perfect solution for you. </br>
 
 Here's why:
-* Makes the user profiles on any platform much more intuitive.
+* It makes the user profiles on any platform much more intuitive.
 * Doesn't require any extra dependency neither adds extra load on the platform
 * Has easy to follow steps to get desired output and can be used in a simple img tag by adding the link in src.
 
